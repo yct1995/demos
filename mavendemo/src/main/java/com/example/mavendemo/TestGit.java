@@ -9,5 +9,6 @@ public class TestGit {
         System.out.println("Hello Git!!!");
         System.out.println("更新1");
         System.out.println("创建分支1");
+        System.out.println("分支添加");
     }
 }
